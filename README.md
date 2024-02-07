@@ -6,3 +6,5 @@ It starts by considering each data point as a separate cluster and then iterativ
 
 Hierarchical-based clustering is typically used on hierarchical data, for example, from a company database or taxonomies. 
 It builds a tree of clusters so everything is organized from the top down. Kinda restrictive, but can work well on specific datasets.
+
+I have performed the same using scikit-learn.
